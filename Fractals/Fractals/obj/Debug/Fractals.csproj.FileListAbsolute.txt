@@ -1,0 +1,9 @@
+D:\Work\Матеріали для GitHub\Fractals\Fractals\bin\Debug\Fractals.exe.config
+D:\Work\Матеріали для GitHub\Fractals\Fractals\bin\Debug\Fractals.exe
+D:\Work\Матеріали для GitHub\Fractals\Fractals\bin\Debug\Fractals.pdb
+D:\Work\Матеріали для GitHub\Fractals\Fractals\obj\Debug\Fractals.Form1.resources
+D:\Work\Матеріали для GitHub\Fractals\Fractals\obj\Debug\Fractals.Properties.Resources.resources
+D:\Work\Матеріали для GitHub\Fractals\Fractals\obj\Debug\Fractals.csproj.GenerateResource.Cache
+D:\Work\Матеріали для GitHub\Fractals\Fractals\obj\Debug\Fractals.exe
+D:\Work\Матеріали для GitHub\Fractals\Fractals\obj\Debug\Fractals.pdb
+D:\Work\Матеріали для GitHub\Fractals\Fractals\obj\Debug\Fractals.csprojResolveAssemblyReference.cache
